@@ -7,9 +7,15 @@ function App() {
   return (
     <div className="app">
       <h1>Netflix Clone</h1>
+
+      {/* NavBar */}
+
+      {/* Banner */}
+
       <Row
         title="Netflix Originals"
         fetchUrl={requests.fetchNetflixOriginals}
+        isLargeRow
       />
       <Row title="Top Rated" fetchUrl={requests.fetchTopRated} />
       <Row title="Comedy Movies" fetchUrl={requests.fecthComedyMovies} />
