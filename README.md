@@ -17,8 +17,8 @@
 | Framework | React.js with Hooks/Function Component |
 | Languages | Javascript/CSS in BEM<sup id="footnode_2">[2](#fn_2)</sup>/HTML|
 | Code Editor | Visual Studio Code |
-| Hosting | Firebase |
-| Database | TMDB |
+| Hosting | Firebase Hosting Service |
+| Database | The Movie Database (TMDb) |
 
 All code for this project could be found in the 'src' folder.
 
