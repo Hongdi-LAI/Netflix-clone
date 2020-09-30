@@ -24,7 +24,7 @@
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Framework | React.js with Hooks/Function Component |
+| Library | React.js with Hooks/Function Component |
 | Languages | Javascript/CSS in BEM<sup id="footnode_2">[[2]](#fn_2)</sup>/HTML|
 | Code Editor | Visual Studio Code |
 | Hosting | Firebase Hosting Service |
