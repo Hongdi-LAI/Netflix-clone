@@ -14,7 +14,7 @@
    | **Responsive Design:**           | The App works well both on PC and mobile                                                                       |
    | **Smooth Scrolling Effect:**     | Header background initially appears tranparent with only the Logo and user avatar. After scrolling down for 100px, a black header background ease-in smoothly                                                                                                               |
    | **onClick Movie Trailer Popup:** | Clicking on the video thumbnail would prompt up the relative Youtube Trailer of the such video                 |
-   | **data fetching from API:**      | All movie infos are directly fetched from the TMDb<sup id="footnode_2">[[2]](#fn_2)</sup> with their API       |
+   | **data fetching from API:**      | All movie infos are directly fetched from the TMDb<sup id="footnode_1">[[1]](#fn_1)</sup> with their API       |
    
    </br>
    
@@ -25,7 +25,7 @@
 | Syntax | Description |
 | ----------- | ----------- |
 | Framework | React.js with Hooks/Function Component |
-| Languages | Javascript/CSS in BEM<sup id="footnode_2">[2](#fn_2)</sup>/HTML|
+| Languages | Javascript/CSS in BEM<sup id="footnode_2">[[2]](#fn_2)</sup>/HTML|
 | Code Editor | Visual Studio Code |
 | Hosting | Firebase Hosting Service |
 | Database | The Movie Database (TMDb) |
