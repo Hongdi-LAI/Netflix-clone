@@ -12,7 +12,7 @@
    |    Highlights                    |                         Description                                                                            |
    | :------------------------------: | ---------------------------------------------------------------------------------------------------------------|  
    | **Responsive Design:**           | The App works well both on PC and mobile                                                                       |
-   | **Smooth Scrolling Effect:**     | Header background initially appears tranparent with only the Logo and user avatar. After scrolling down for 100px, a black background ease-in smoothly                                                                                                                      |
+   | **Smooth Scrolling Effect:**     | Header background initially appears tranparent with only the Logo and user avatar. After scrolling down for 100px, a black header background ease-in smoothly                                                                                                               |
    | **onClick Movie Trailer Popup:** | Clicking on the video thumbnail would prompt up the relative Youtube Trailer of the such video                 |
    | **data fetching from API:**      | All movie infos are directly fetched from the TMDb<sup id="footnode_2">[[2]](#fn_2)</sup> with their API       |
    
